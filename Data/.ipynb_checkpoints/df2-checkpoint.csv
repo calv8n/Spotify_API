@@ -1,0 +1,57 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Ajib Dastan Hai Yeh,Dil Apna Aur Preet Parai,Shankar Jaikishan,6Rl4eDKFpvntiRKtPn8d5V,1960-01-01,52,315613,0.566,0.875,0.412,0.00314,0.204,0.68,-12.63,0.0309,102.478,5,4
+Luka Chuppi,Rang De Basanti (Original Motion Picture Soundtrack),A.R. Rahman,500H9ENeR5AYbKU1ScK6ME,2005-12-04,58,396506,0.601,0.645,0.441,1.08e-06,0.0986,0.202,-8.946,0.0285,103.862,4,4
+Raat Baaqi Baat Baaqi,Namak Halaal,Bappi Lahiri,0uYROCXW2Eo3HCBK3lROBd,1982-04-30,44,379813,0.633,0.347,0.35,0.000336,0.0604,0.222,-12.982,0.0684,123.468,4,4
+Stone Cold,Confident,Demi Lovato,3by8IfnW9dZ2t4pZw1WVxz,2015-01-01,67,191307,0.419,0.539,0.453,0.0,0.0971,0.356,-7.685,0.0437,140.327,8,3
+River Flows In You,Yiruma 2nd Album 'First Love' (The Original & the Very First Recording),Yiruma,2agBDIr9MYDUducQPC1sFU,2001-11-27,69,188786,0.315,0.987,0.22,0.943,0.0802,0.116,-21.343,0.0514,145.195,9,4
+Right Here Waiting,Repeat Offender,Richard Marx,4LFwNJWoj74Yd71fIr1W8x,1989-01-01,75,264333,0.395,0.8,0.252,0.0,0.101,0.126,-13.589,0.0301,177.679,0,4
+Levitating,Future Nostalgia,Dua Lipa,39LLxExYz6ewLAcYrzQQyP,2020-03-27,81,203807,0.695,0.0561,0.884,0.0,0.213,0.914,-2.278,0.0753,103.014,6,4
+good 4 u,SOUR,Olivia Rodrigo,4ZtFanR9U6ndgddUvNcjcG,2021-05-21,85,178146,0.563,0.335,0.664,0.0,0.0849,0.688,-5.044,0.154,166.928,9,4
+Senorita,Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,3TAhWtQnpoL5Vl9VQPl9fU,2011-06-06,63,229575,0.701,0.134,0.681,0.0,0.064,0.81,-6.442,0.0466,122.539,9,4
+,,Various Artists,7DonyrUlcVcrtk28mqvWNL,0000,0,0,0.705,0.0483,0.678,7.01e-05,0.496,0.691,-8.644,0.0415,120.042,4,4
+"Ghungroo (From ""War"")","Ghungroo (From ""War"")",Vishal-Shekhar,0WdbnNKO0Jt4BZACSDQh44,2019-09-30,70,302935,0.695,0.0744,0.727,0.000175,0.533,0.864,-6.274,0.0323,118.034,6,4
+Last Resort,Infest,Papa Roach,5W8YXBz9MTIDyrpYaCg2Ky,2001-04-25,80,199906,0.589,0.000481,0.89,0.00082,0.201,0.692,-3.719,0.0603,90.598,4,4
+Dandelions,Safe Haven,Ruth B.,2eAvDnpXP5W0cVtiI0PUxV,2017-05-05,88,233720,0.609,0.0157,0.692,0.0,0.0864,0.454,-2.958,0.0259,116.959,1,3
+Until I Found You,Until I Found You,Stephen Sanchez,0T5iIrXA4p5GsubkhuBIKV,2021-09-01,85,177720,0.539,0.727,0.508,0.0,0.174,0.227,-6.05,0.0288,101.358,10,3
+Shree Ganeshay Dheemahi,Vishwa Vinayaka,Chorus,2w8gfS0KmrNNwcqhKGmefN,2001-08-13,46,407902,0.609,0.717,0.285,0.0,0.11,0.531,-15.423,0.0345,139.898,6,4
+Bezubaan,ABCD - Any Body Can Dance (Original Motion Picture Soundtrack),Sachin-Jigar,2ota18jyZVMGvwQ0IV8qz7,2013-06-24,48,282840,0.615,0.0286,0.573,2.13e-06,0.11,0.172,-8.264,0.0491,101.92,1,4
+Har Kisi Ko,Boss,Various Artists,7FPbxfwWa2gzB9ePX19I5z,2013-09-10,51,337046,0.553,0.478,0.705,0.0,0.278,0.324,-6.898,0.0308,95.007,3,4
+Kaise Hua,Kabir Singh,Various Artists,5w0Xpt2YHT2Y3z3e4UUJP7,2019-06-14,70,234722,0.37,0.442,0.467,0.0,0.109,0.162,-6.973,0.0411,137.796,2,4
+drivers license,SOUR,Olivia Rodrigo,5wANPM4fQCJwkGd4rN57mH,2021-05-21,84,242013,0.561,0.768,0.431,1.42e-05,0.106,0.137,-8.81,0.0578,143.875,10,4
+Love Of My Life - Remastered 2011,A Night At The Opera (Deluxe Edition 2011 Remaster),Queen,4YJUTdZ0Pgl0ZeNyHYXeLd,1975-11-21,71,217386,0.329,0.933,0.179,5.04e-06,0.115,0.255,-11.589,0.0299,154.175,5,4
+Saathiya,Saathiya,A.R. Rahman,78KKYDENYsw6jYfuEZsqJl,2002-10-18,62,357433,0.462,0.186,0.457,0.0,0.334,0.535,-15.251,0.106,175.94,1,4
+,,Various Artists,2EM2vuV1jMHPQZ9SUJSB39,0000,0,0,0.678,0.176,0.612,6.43e-06,0.458,0.388,-5.891,0.0254,129.967,5,4
+Can't Help Falling in Love,Blue Hawaii,Elvis Presley,44AyOl4qVkzS48vBsbNXaC,1961-10-20,79,182360,0.396,0.941,0.293,0.000196,0.105,0.343,-14.062,0.0275,100.307,2,3
+"Mary, Did You Know?",That's Christmas To Me (Deluxe Edition),Pentatonix,4z8sz6E4YyFuEkv5o7IJni,2015-10-30,57,203373,0.497,0.302,0.312,0.0,0.0968,0.177,-9.088,0.0269,105.036,11,4
+We Wish You A Merry Christmas,Evergreen,Pentatonix,7fu9Qxb3dloPFtIDAlmPRx,2021-10-29,40,136173,0.293,0.665,0.368,0.0,0.1,0.705,-9.505,0.029,76.833,5,3
+Somebody To Love - Live At The Montreal Forum / November 1981,Queen Rock Montreal,Queen,2w4etd9ghamWZUqpk1uINX,2007-10-29,35,473306,0.384,0.0199,0.886,3.48e-06,0.887,0.306,-5.106,0.133,116.216,8,3
+Boulevard of Broken Dreams,Greatest Hits: God's Favorite Band,Green Day,5GorCbAP4aL0EJ16frG2hd,2017-11-17,76,262333,0.496,0.00552,0.682,2.94e-05,0.0589,0.474,-4.095,0.0294,167.06,8,4
+Choo Lo,Aalas Ka Pedh,The Local Train,2qgXrzJsry4KgYoJCpuaul,2015-09-25,66,233630,0.512,0.0265,0.695,0.00815,0.146,0.351,-6.349,0.0271,145.957,4,4
+Best Part (feat. H.E.R.),Freudian,Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,2017-08-25,80,209831,0.524,0.808,0.364,0.0,0.1,0.436,-10.209,0.0367,75.24,7,4
+Tears in Heaven - Acoustic Live,Unplugged (Deluxe Edition) (Live),Eric Clapton,3UqHlIBI771FNCiLY5MKrp,1992-08-25,68,280000,0.694,0.806,0.331,0.00235,0.707,0.458,-13.0,0.0284,79.055,9,4
+Sanson Ki Mala,Sanson Ki Mala,Rahat Fateh Ali Khan,0kT0RwW83Yl0Vrym7moHAo,2020-11-06,52,285624,0.393,0.581,0.66,0.0,0.103,0.465,-3.914,0.0468,131.722,10,3
+Vande Mataram,Anand Math,Hemant Kumar,58JTpSANNneHrsMeoL7ukC,1952-01-01,22,178462,0.369,0.993,0.387,0.713,0.129,0.746,-11.381,0.0359,167.991,5,4
+Piya Se Naina,Coke Studio @ MTV Season 3: Episode 2,Ram Sampath,2pEkvZNzEUl7BkdYzoSDtk,2013-08-24,34,288653,0.442,0.0544,0.888,0.0,0.0935,0.688,-4.386,0.0477,122.779,0,4
+,,Various Artists,2WQwk9YwLmwyOgDHa2WiVk,0000,0,0,0.478,0.471,0.594,0.0,0.0718,0.536,-9.752,0.0413,107.636,4,4
+Stitches,Handwritten,Shawn Mendes,3zkWCteF82vJwv0hRLba76,2015-04-14,80,206880,0.746,0.0152,0.754,0.0,0.0486,0.746,-6.684,0.0676,149.882,1,4
+Perfect,÷ (Deluxe),Ed Sheeran,0tgVpDi06FyKpA1z0VMD4v,2017-03-03,88,263400,0.599,0.163,0.448,0.0,0.106,0.168,-6.312,0.0232,95.05,8,3
+Neele Neele Ambar Par - Male Version,Kalaakaar (Original Motion Picture Soundtrack),Kalyanji-Anandji,02zPo0Dt0R4TTFY5zLJZnK,1983-06-10,66,320000,0.562,0.628,0.696,0.0,0.172,0.722,-7.612,0.0397,93.801,0,4
+Comfortably Numb,The Wall,Pink Floyd,5HNCy40Ni5BZJFw1TKzRsC,1979-11-30,73,382296,0.472,0.15,0.366,0.312,0.0837,0.171,-12.595,0.0286,127.163,11,4
+Stairway to Heaven - Remaster,Led Zeppelin IV (Deluxe Edition),Led Zeppelin,5CQ30WqJwcep0pYcV4AMNc,1971-11-08,78,482830,0.338,0.58,0.34,0.0032,0.116,0.197,-12.049,0.0339,82.433,9,4
+,,Various Artists,3hp6JfJIxkv3sl7E6p7DQj,0000,0,0,0.449,0.387,0.421,0.000108,0.11,0.203,-8.92,0.0272,163.747,4,3
+Teri Deewani,Kailasa,Kailasa,2iNqdCchlUZEgjJbQyZf8T,2006-02-24,62,323520,0.447,0.324,0.6,0.0,0.0962,0.434,-3.718,0.0332,80.044,4,3
+Skyfall,Skyfall,Adele,6VObnIkLVruX4UVyxWhlqm,2012-10-04,77,286480,0.346,0.417,0.552,0.0,0.114,0.0789,-6.864,0.0282,75.881,0,4
+Summertime Sadness,Born To Die - The Paradise Edition,Lana Del Rey,3BJe4B8zGnqEdQPMvfVjuS,2012-01-01,83,265427,0.565,0.0542,0.654,1.8e-06,0.122,0.235,-6.826,0.0335,111.968,1,4
+Pyaar Ke Pal,Pal,KK,6GWchpKWsKkwR6jcl0yG6V,1999-04-16,53,359373,0.599,0.845,0.135,2.43e-05,0.11,0.168,-12.376,0.0308,122.107,4,3
+All of Me,Love In The Future (Expanded Edition),John Legend,3U4isOIWM3VvDubwSI3y7a,2013-08-30,84,269560,0.422,0.922,0.264,0.0,0.132,0.331,-7.064,0.0322,119.93,8,4
+Shape of You,÷ (Deluxe),Ed Sheeran,7qiZfU4dY1lWllzX7mPBI3,2017-03-03,86,233712,0.825,0.581,0.652,0.0,0.0931,0.931,-3.183,0.0802,95.977,1,4
+Happiness is a butterfly,Norman Fucking Rockwell!,Lana Del Rey,3lG6OtGDsYAOALxEmubQQm,2019-08-30,76,272485,0.467,0.969,0.119,1.4e-06,0.0973,0.156,-10.99,0.0401,70.499,2,4
+Khamoshiyan,Khamoshiyan (Original Motion Picture Soundtrack),Various Artists,6zCQF5tu7HVwU9shhKqiuF,2014-12-29,64,335709,0.527,0.631,0.521,0.0,0.158,0.266,-6.837,0.0272,143.892,2,3
+Janam Janam,Dilwale (Original Motion Picture Soundtrack),Pritam,4km0RUkMMFdx8iDuq36o2w,2015-11-17,68,237896,0.301,0.602,0.581,0.0,0.0757,0.235,-7.324,0.0422,132.051,11,3
+Hotel California - 2013 Remaster,Hotel California (2013 Remaster),Eagles,40riOy7x9W7GXjyGp4pjAv,1976-12-08,83,391376,0.579,0.00574,0.508,0.000494,0.0575,0.609,-9.484,0.027,147.125,2,4
+Toxicity,Toxicity,System Of A Down,0snQkGI5qnAmohLE7jTsTn,2001-09-04,80,218933,0.413,0.000264,0.873,0.00249,0.204,0.48,-4.151,0.0536,116.68,8,3
+Easy On Me,Easy On Me,Adele,0gplL1WMoJ6iYaPgMCL0gX,2021-10-14,83,224694,0.604,0.578,0.366,0.0,0.133,0.13,-7.519,0.0282,141.981,5,4
+Someone Like You,21,Adele,3bNv3VuUOKgrf5hu3YcuRo,2011-01-24,81,285240,0.556,0.893,0.319,0.0,0.0996,0.294,-8.251,0.0281,135.187,9,4
+Radhe,Samsara,Anand Bhaskar Collective,1yzqjPNdV5wwftwkpSsh4d,2014-11-22,22,372184,0.441,0.000768,0.834,2.43e-05,0.204,0.313,-3.872,0.0307,139.972,4,1
+"My Heart Will Go On - Love Theme from ""Titanic""",Let's Talk About Love,Céline Dion,33LC84JgLvK2KuW43MfaNq,1997-11-14,74,280000,0.428,0.732,0.276,5.33e-06,0.117,0.0382,-11.729,0.0312,99.195,4,1
+Love Is A Losing Game,Back To Black (Deluxe Edition),Amy Winehouse,3uliGwmB52ZA7brgpZMzyH,2006,67,155413,0.484,0.337,0.293,0.00627,0.146,0.562,-16.544,0.0311,165.008,0,4
